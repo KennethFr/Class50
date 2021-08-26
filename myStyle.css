@@ -1,0 +1,26 @@
+.Links{
+    border:solid;
+    background: orange;
+    display:flex;
+    justify-content: space-between;
+}
+hr{
+    height: 40px;
+    background-color: teal;
+}
+.gameLinks{
+display: flex;
+justify-content: space-evenly;
+}
+.subGameLinks{
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-size: 20;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
